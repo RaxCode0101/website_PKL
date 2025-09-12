@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #f4f4f4;
+  background-color: hsl(0, 0%, 96%);
   color: #333;
   height: fit-content;
   margin: 0;
@@ -24,7 +24,7 @@ a {
 }
 
 :root {
-  --primary: #1a3a4b;
+  --primary:#1a3a4b;
   --secondary: #2c5c7a;
   --accent: #ffb400;
   --light: #f8f9fa;
